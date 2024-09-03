@@ -290,7 +290,7 @@ img {
 }
 .home__blob-img {
   width: 180%;
-  height: 145%;
+  height: 150%;
   padding-left: 30px;
 }
 .home__data {
@@ -855,7 +855,7 @@ img {
 
 .scrollup {
   position: fixed;
-  right: 1rem;
+  right: 2rem;
   bottom: -20%;
   background-color: var(--first-color);
   opacity: 0.8;
@@ -876,7 +876,7 @@ img {
 
 /* Show Scroll */
 .show-scroll {
-  bottom: 5rem;
+  bottom: 6.5rem;
 }
 
 /*====================== Scroll Bar =====================*/
